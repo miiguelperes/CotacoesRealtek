@@ -1,0 +1,11 @@
+plugin:
+    name: Vendas
+    description: 'peres.vendas::lang.plugin.description'
+    author: Peres
+    icon: oc-icon-money
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Vendas
+        url: peres/vendas/vendas
+        icon: icon-money

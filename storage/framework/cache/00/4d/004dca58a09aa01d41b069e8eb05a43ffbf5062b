@@ -1,0 +1,13 @@
+1555004376a:1:{s:9:"index.htm";a:8:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:1044:"title = "Index"
+url = "/:all?*"
+is_hidden = 0
+==
+function onStart()
+{
+    $this['token'] = \Session::token();
+}
+==
+<!DOCTYPE html><html><head><meta charset=utf-8><meta name=token content="{{ token }}"><meta name=viewport content="width=device-width,initial-scale=1"><link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel=stylesheet><link rel=stylesheet href=https://use.fontawesome.com/releases/v5.8.1/css/all.css integrity=sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf crossorigin=anonymous><title>Realtec - Cotação</title><link href=/themes/realtec/assets/static/css/app.eede209e6b85eafa3e910a13a0359ea4.css rel=stylesheet></head><body><div id=app></div><script type=text/javascript src=/themes/realtec/assets/static/js/manifest.97752d5d79e7cddddb7d.js></script><script type=text/javascript src=/themes/realtec/assets/static/js/vendor.d3287bfe89f177703b08.js></script><script type=text/javascript src=/themes/realtec/assets/static/js/app.4750160b16a58f21f8c1.js></script></body></html>";s:5:"mtime";i:1555003592;s:6:"markup";s:920:"<!DOCTYPE html><html><head><meta charset=utf-8><meta name=token content="{{ token }}"><meta name=viewport content="width=device-width,initial-scale=1"><link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel=stylesheet><link rel=stylesheet href=https://use.fontawesome.com/releases/v5.8.1/css/all.css integrity=sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf crossorigin=anonymous><title>Realtec - Cotação</title><link href=/themes/realtec/assets/static/css/app.eede209e6b85eafa3e910a13a0359ea4.css rel=stylesheet></head><body><div id=app></div><script type=text/javascript src=/themes/realtec/assets/static/js/manifest.97752d5d79e7cddddb7d.js></script><script type=text/javascript src=/themes/realtec/assets/static/js/vendor.d3287bfe89f177703b08.js></script><script type=text/javascript src=/themes/realtec/assets/static/js/app.4750160b16a58f21f8c1.js></script></body></html>";s:4:"code";s:65:"function onStart()
+{
+    $this['token'] = \Session::token();
+}";s:5:"title";s:5:"Index";s:3:"url";s:7:"/:all?*";s:9:"is_hidden";s:1:"0";}}

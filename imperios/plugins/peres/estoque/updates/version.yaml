@@ -1,0 +1,20 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table peres_estoque_categorias'
+    - builder_table_create_peres_estoque_categorias.php
+1.0.3:
+    - 'Created table peres_estoque_'
+    - builder_table_create_peres_estoque_.php
+1.0.4:
+    - 'Updated table peres_estoque_'
+    - builder_table_update_peres_estoque_.php
+1.0.5:
+    - 'Updated table peres_estoque_'
+    - builder_table_update_peres_estoque__2.php
+1.0.6:
+    - 'Updated table peres_estoque_'
+    - builder_table_update_peres_estoque__3.php
+1.0.7:
+    - 'Updated table peres_estoque_'
+    - builder_table_update_peres_estoque__4.php

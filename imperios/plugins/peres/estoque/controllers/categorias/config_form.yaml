@@ -1,0 +1,10 @@
+name: Categorias
+form: $/peres/estoque/models/categorias/fields.yaml
+modelClass: Peres\Estoque\Models\Categorias
+defaultRedirect: peres/estoque/categorias
+create:
+    redirect: 'peres/estoque/categorias/update/:id'
+    redirectClose: peres/estoque/categorias
+update:
+    redirect: peres/estoque/categorias
+    redirectClose: peres/estoque/categorias

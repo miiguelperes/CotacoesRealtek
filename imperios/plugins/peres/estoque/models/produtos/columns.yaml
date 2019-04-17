@@ -1,0 +1,16 @@
+columns:
+    id:
+        label: id
+        type: text
+    nome:
+        label: nome
+        type: text
+    volume:
+        label: volume
+        type: text
+    qntd:
+        label: qntd
+        type: number
+    descricao:
+        label: descricao
+        type: text

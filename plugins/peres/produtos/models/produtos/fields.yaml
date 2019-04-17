@@ -1,0 +1,21 @@
+fields:
+    nome:
+        label: 'Nome do produto'
+        span: auto
+        required: 1
+        type: text
+    descricao:
+        label: 'Descrição do produto'
+        size: ''
+        span: auto
+        type: textarea
+    codigo:
+        label: 'Codigo de barras'
+        span: auto
+        required: 1
+        type: text
+    valor:
+        label: Preço
+        span: auto
+        cssClass: ''
+        type: number

@@ -1,0 +1,4 @@
+title: Produtos
+modelClass: Peres\Produtos\Models\Produtos
+toolbar:
+    buttons: reorder_toolbar

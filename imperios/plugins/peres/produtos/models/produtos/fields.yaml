@@ -1,0 +1,34 @@
+fields:
+    nome:
+        label: Nome
+        span: auto
+        type: text
+    imagem:
+        label: Imagem
+        mode: image
+        imageWidth: '250'
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: fileupload
+    valor:
+        label: Valor
+        span: left
+        type: text
+    descricao:
+        label: Descrição
+        size: ''
+        span: left
+        type: textarea
+    volume:
+        label: Volume
+        span: left
+        type: text
+    categoria:
+        label: Categoria
+        nameFrom: nome
+        descriptionFrom: description
+        span: left
+        type: relation

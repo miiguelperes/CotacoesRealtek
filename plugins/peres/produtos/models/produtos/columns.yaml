@@ -1,0 +1,16 @@
+columns:
+    id:
+        label: id
+        type: number
+    nome:
+        label: nome
+        type: text
+    descricao:
+        label: descricao
+        type: text
+    codigo:
+        label: codigo
+        type: text
+    valor:
+        label: valor
+        type: text

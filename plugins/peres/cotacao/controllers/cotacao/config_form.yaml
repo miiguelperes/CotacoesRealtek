@@ -1,0 +1,10 @@
+name: Cotacao
+form: $/peres/cotacao/models/cotacao/fields.yaml
+modelClass: Peres\Cotacao\Models\Cotacao
+defaultRedirect: peres/cotacao/cotacao
+create:
+    redirect: 'peres/cotacao/cotacao/update/:id'
+    redirectClose: peres/cotacao/cotacao
+update:
+    redirect: peres/cotacao/cotacao
+    redirectClose: peres/cotacao/cotacao

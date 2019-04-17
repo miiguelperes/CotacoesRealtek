@@ -1,0 +1,19 @@
+columns:
+    idcotacao:
+        label: idcotacao
+        type: number
+    idfornecedor:
+        label: idfornecedor
+        type: number
+    idproduto:
+        label: idproduto
+        type: number
+    preco:
+        label: preco
+        type: text
+    created_at:
+        label: created_at
+        type: datetime
+    updated_at:
+        label: updated_at
+        type: datetime

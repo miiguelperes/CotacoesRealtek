@@ -1,0 +1,34 @@
+columns:
+    id:
+        label: id
+        type: number
+    nome:
+        label: nome
+        type: text
+    descricao:
+        label: descricao
+        type: text
+        invisible: true
+    volume:
+        label: volume
+        type: text
+    valor:
+        label: valor
+        type: text
+        invisible: false
+    created_at:
+        label: created_at
+        type: datetime
+        invisible: true
+    updated_at:
+        label: updated_at
+        type: datetime
+        invisible: true
+    categoria:
+        label: categoria
+        type: number
+        select: nome
+        relation: categoria
+    path:
+        label: path
+        type: text

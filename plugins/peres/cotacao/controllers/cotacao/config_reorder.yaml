@@ -1,0 +1,4 @@
+title: Cotacao
+modelClass: Peres\Cotacao\Models\Cotacao
+toolbar:
+    buttons: reorder_toolbar

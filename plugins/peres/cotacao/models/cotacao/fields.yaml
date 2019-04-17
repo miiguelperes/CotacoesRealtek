@@ -1,0 +1,19 @@
+fields:
+    descricao:
+        label: Descrição
+        span: auto
+        type: text
+    created_at:
+        label: 'Criado em'
+        mode: date
+        span: auto
+        type: datepicker
+    data_final:
+        label: 'Data fim'
+        mode: date
+        span: auto
+        type: datepicker
+    produtos:
+        label: Produtos
+        type: partial
+        path: field_produtos

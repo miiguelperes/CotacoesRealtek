@@ -1,0 +1,20 @@
+plugin:
+    name: 'peres.produtos::lang.plugin.name'
+    description: 'peres.produtos::lang.plugin.description'
+    author: Peres
+    icon: oc-icon-pagelines
+    homepage: ''
+navigation:
+    Produtos:
+        label: Produtos
+        url: Peres/Produtos/Produtos
+        icon: icon-life-ring
+        sideMenu:
+            side-menu-item:
+                label: Produtos
+                url: Peres/Produtos/Produtos
+                icon: icon-simplybuilt
+            categorias:
+                label: Categorias
+                url: Peres/Produtos/Categorias
+                icon: icon-sitemap

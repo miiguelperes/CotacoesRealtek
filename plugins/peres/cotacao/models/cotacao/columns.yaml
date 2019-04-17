@@ -1,0 +1,24 @@
+columns:
+    id:
+        label: id
+        type: number
+    produtos:
+        label: produtos
+        type: number
+        select: nome
+        relation: produtos
+    created_at:
+        label: created_at
+        type: datetime
+    updated_at:
+        label: updated_at
+        type: datetime
+    data_final:
+        label: data_final
+        type: text
+    fornecedor_cotacao_id:
+        label: fornecedor_cotacao_id
+        type: number
+    descricao:
+        label: descricao
+        type: text

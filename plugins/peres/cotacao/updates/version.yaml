@@ -1,0 +1,8 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table peres_cotacao_'
+    - builder_table_create_peres_cotacao_.php
+1.0.3:
+    - 'Updated table peres_cotacao_'
+    - builder_table_update_peres_cotacao_.php

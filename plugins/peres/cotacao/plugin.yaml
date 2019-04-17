@@ -1,0 +1,11 @@
+plugin:
+    name: 'peres.cotacao::lang.plugin.name'
+    description: 'peres.cotacao::lang.plugin.description'
+    author: Peres
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Cotação
+        url: peres/cotacao/cotacao
+        icon: icon-stumbleupon-circle

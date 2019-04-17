@@ -1,0 +1,16 @@
+fields:
+    created_at:
+        label: 'Criado em'
+        mode: date
+        span: auto
+        type: datepicker
+    user:
+        label: Fornecedor
+        nameFrom: name
+        descriptionFrom: description
+        span: left
+        type: relation
+    cotacao_id:
+        label: Cotacao
+        type: partial
+        path: field_cotacao

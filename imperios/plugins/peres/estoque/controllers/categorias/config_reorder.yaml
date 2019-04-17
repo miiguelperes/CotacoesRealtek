@@ -1,0 +1,4 @@
+title: Categorias
+modelClass: Peres\Estoque\Models\Categorias
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,11 @@
+cotacao_id:
+    label: Cotacao
+    view:
+        list: $/peres/cotacao/models/cotacao/columns.yaml
+        toolbarButtons: add|remove
+    manage:
+        showSearch: true
+        list: $/peres/cotacao/models/cotacao/columns.yaml
+        form: $/peres/cotacao/models/cotacao/fields.yaml
+    pivot:
+        form: $/peres/cotacao/models/cotacao/fields.yaml

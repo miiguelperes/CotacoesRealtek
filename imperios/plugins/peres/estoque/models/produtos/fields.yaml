@@ -1,0 +1,24 @@
+fields:
+    nome:
+        label: 'Nome do Produto'
+        span: auto
+        type: text
+    qntd:
+        label: 'Quantidade no estoque'
+        span: auto
+        type: number
+    descricao:
+        label: 'Descrição do Produto'
+        size: tiny
+        span: auto
+        type: textarea
+    volume:
+        label: 'Volume do Produto'
+        span: auto
+        type: text
+    categoria:
+        label: 'Categoria do produto'
+        nameFrom: name
+        descriptionFrom: description
+        span: auto
+        type: relation

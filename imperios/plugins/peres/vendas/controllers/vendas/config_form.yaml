@@ -1,0 +1,10 @@
+name: Vendas
+form: $/peres/vendas/models/vendas/fields.yaml
+modelClass: Peres\Vendas\Models\Vendas
+defaultRedirect: peres/vendas/vendas
+create:
+    redirect: 'peres/vendas/vendas/update/:id'
+    redirectClose: peres/vendas/vendas
+update:
+    redirect: peres/vendas/vendas
+    redirectClose: peres/vendas/vendas

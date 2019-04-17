@@ -1,0 +1,10 @@
+name: FornecedorCotacao
+form: $/peres/fornecedorcotacao/models/fornecedorcotacao/fields.yaml
+modelClass: Peres\Fornecedorcotacao\Models\FornecedorCotacao
+defaultRedirect: peres/fornecedorcotacao/fornecedorcotacao
+create:
+    redirect: 'peres/fornecedorcotacao/fornecedorcotacao/update/:id'
+    redirectClose: peres/fornecedorcotacao/fornecedorcotacao
+update:
+    redirect: peres/fornecedorcotacao/fornecedorcotacao
+    redirectClose: peres/fornecedorcotacao/fornecedorcotacao

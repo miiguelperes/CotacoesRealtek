@@ -1,0 +1,12 @@
+produtos:
+    label: Produtos
+    view:
+        list: $/peres/produtos/models/produtos/columns.yaml
+        toolbarButtons: add|remove
+    manage:
+        showSearch: true
+        list: $/peres/produtos/models/produtos/columns.yaml
+        form: $/peres/produtos/models/produtos/fields.yaml
+    pivot:
+        form: $/peres/produtos/models/produtos/fields.yaml
+      

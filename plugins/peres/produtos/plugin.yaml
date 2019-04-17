@@ -1,0 +1,11 @@
+plugin:
+    name: 'peres.produtos::lang.plugin.name'
+    description: 'peres.produtos::lang.plugin.description'
+    author: Peres
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Produtos
+        url: peres/produtos/produtos
+        icon: icon-life-ring

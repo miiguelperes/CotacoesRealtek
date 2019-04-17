@@ -1,0 +1,20 @@
+plugin:
+    name: 'peres.estoque::lang.plugin.name'
+    description: 'peres.estoque::lang.plugin.description'
+    author: Peres
+    icon: oc-icon-bar-chart-o
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Estoque
+        url: peres/estoque/produtos
+        icon: icon-bar-chart
+        sideMenu:
+            side-menu-item:
+                label: Produtos
+                url: Peres/Estoque/produtos
+                icon: icon-cart-plus
+            side-menu-item2:
+                label: Categorias
+                url: peres/estoque/categorias
+                icon: icon-sitemap

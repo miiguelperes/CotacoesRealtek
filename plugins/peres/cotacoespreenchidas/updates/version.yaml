@@ -1,0 +1,11 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table peres_cotacoespreenchidas_'
+    - builder_table_create_peres_cotacoespreenchidas_.php
+1.0.3:
+    - 'Updated table peres_cotacoespreenchidas_'
+    - builder_table_update_peres_cotacoespreenchidas_.php
+1.0.4:
+    - 'Updated table peres_cotacoespreenchidas_'
+    - builder_table_update_peres_cotacoespreenchidas__2.php

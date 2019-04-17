@@ -1,0 +1,10 @@
+name: Categorias
+form: $/peres/produtos/models/categorias/fields.yaml
+modelClass: Peres\Produtos\Models\Categorias
+defaultRedirect: peres/produtos/categorias
+create:
+    redirect: 'peres/produtos/categorias/update/:id'
+    redirectClose: peres/produtos/categorias
+update:
+    redirect: peres/produtos/categorias
+    redirectClose: peres/produtos/categorias

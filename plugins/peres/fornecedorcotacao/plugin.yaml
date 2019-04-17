@@ -1,0 +1,11 @@
+plugin:
+    name: 'peres.fornecedorcotacao::lang.plugin.name'
+    description: 'peres.fornecedorcotacao::lang.plugin.description'
+    author: Peres
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Fornecedor Cotação'
+        url: peres/fornecedorcotacao/fornecedorcotacao
+        icon: icon-table

@@ -1,0 +1,4 @@
+title: FornecedorCotacao
+modelClass: Peres\Fornecedorcotacao\Models\FornecedorCotacao
+toolbar:
+    buttons: reorder_toolbar

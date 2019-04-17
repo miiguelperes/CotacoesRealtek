@@ -1,0 +1,11 @@
+plugin:
+    name: 'peres.cotacoespreenchidas::lang.plugin.name'
+    description: 'peres.cotacoespreenchidas::lang.plugin.description'
+    author: Peres
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Cotacoes Preenchidas'
+        url: peres/cotacoespreenchidas/cotacoespreenchidas
+        icon: icon-folder-open-o
