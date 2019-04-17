@@ -1,4 +1,0 @@
-title: Vendas
-modelClass: Peres\Vendas\Models\Vendas
-toolbar:
-    buttons: reorder_toolbar

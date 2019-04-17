@@ -1,4 +1,0 @@
-title: Categorias
-modelClass: Peres\Produtos\Models\Categorias
-toolbar:
-    buttons: reorder_toolbar

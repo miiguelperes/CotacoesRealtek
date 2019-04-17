@@ -1,4 +1,0 @@
-title: Clientes
-modelClass: Peres\Clientes\Models\Clientes
-toolbar:
-    buttons: reorder_toolbar
